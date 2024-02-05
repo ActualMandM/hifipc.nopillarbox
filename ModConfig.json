@@ -1,0 +1,23 @@
+{
+  "ModId": "hifipc.nopillarbox",
+  "ModName": "Pillar/Letter Box Removal",
+  "ModAuthor": "M&M",
+  "ModVersion": "1.0.0",
+  "ModDescription": "Removes the pillar/letter boxing from certain scenes and all cutscenes. Will cause some visual issues.",
+  "ModDll": "hifipc.nopillarbox.dll",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "x86/hifipc.nopillarbox.dll",
+  "ModR2RManagedDll64": "x64/hifipc.nopillarbox.dll",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "hifipc.nopillarbox.ReleaseMetadata.json",
+  "PluginData": {},
+  "IsUniversalMod": false,
+  "ModDependencies": [ "reloaded.sharedlib.hooks" ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "hi-fi-rush.exe"
+  ],
+  "ProjectUrl": ""
+}
